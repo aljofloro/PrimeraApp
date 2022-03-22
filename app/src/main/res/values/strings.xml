@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name">Mi Primera Aplicación</string>
+  <string name="created">Hola desde onCreate</string>
+  <string name="started">Hola desde onStart</string>
+  <string name="resumed">Hola desde onResume</string>
+  <string name="paused">Hola desde onPause</string>
+  <string name="stopped">Hola desde onStop</string>
+  <string name="destroyed">Hola desde onDestroy</string>
+  <string name="restarted">Hola desde onRestart</string>
+  <string name="Saludos">Saludo!!</string>
+  <string name="acerca_de">Acerca de</string>
+</resources>

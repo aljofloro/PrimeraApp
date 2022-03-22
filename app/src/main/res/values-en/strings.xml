@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">My first App</string>
+  <string name="created">Hello from onCreate</string>
+  <string name="started">Hello from onStart</string>
+  <string name="resumed">Hello from onResume</string>
+  <string name="paused">Hello from onPause</string>
+  <string name="stopped">Hello from onStop</string>
+  <string name="destroyed">Hello from onDestroy</string>
+  <string name="restarted">Hello from onRestart</string>
+  <string name="Saludos">Greetings!!</string>
+  <string name="acerca_de">About</string>
+</resources>
